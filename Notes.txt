@@ -14,3 +14,14 @@ course meterial and links
 //////////////////////////////////////
 lecture 03
 Install Nodejs
+
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::
+Section 02. Introduction to Node.js and NPM
+:::::::::::::::::::::::::::::::::::::::::::
+
+//////////////////////////////////////
+lecture 01
+Just section Introduction
